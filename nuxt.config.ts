@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   ],
 
   app: {
-    baseURL: '/udemy_clone/', // baseURL: '/<repository>/'
+    baseURL: '/udemy_clone-main/', // baseURL: '/<repository>/'
     buildAssetsDir: 'assets', // don't use "_" at the begining of the folder name to avoids nojkill conflict
   },
 
