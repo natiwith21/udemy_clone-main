@@ -4,7 +4,7 @@
     <Navbar />
     <CourseHeader />
     <CourseFeatures />
-    <Companies />
+   
     <CourseContent />
     <Requirments />
     <FeaturedReview />
